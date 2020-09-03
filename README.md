@@ -25,3 +25,13 @@ radio, text, checkbox등 여러가지 타입이 있다는것을 알게 되었습
 
 
 2. setTime을 통해 실시간으로 시간을 체크하면서 출력하는것을 다루었고 다양한 방식으로 출력하여 응용이 가능하게 익혔습니다. 
+
+
+### 작동 방법
+
+```
+git clone https://github.com/kyungminkim-dev/JS.git
+cd JS
+cd "Project(JS)"
+start index.html
+```
