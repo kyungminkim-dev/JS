@@ -1,5 +1,8 @@
 body{
     background-color:#2c3e50;
+    margin-left: 45%;
+    margin-top: 300px;
+    font-size: 200%;
 }
 
 .btn {
@@ -7,11 +10,11 @@ body{
 }
 
 body {
-    color:#34495e;
+    color:#1a0be7;
 }
 
 .click {
-    color: #7f8c8d;
+    color: #12868f;
 }
 
 .form,
